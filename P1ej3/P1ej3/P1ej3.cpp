@@ -21,7 +21,7 @@ char e3()
 	cin >> car;
 	return(car);
 }
-int calculos(v1, v2)
+int calcul(v1, v2)
 {
 	sum = v1 + v2;
 	res = v1-v2:
